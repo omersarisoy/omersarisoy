@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm a Developer!!
 
-<img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
+<img src="./animation.gif" alt="react-native" width="20%" height="20%" align="right">
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
